@@ -208,3 +208,5 @@ __marimo__/
 
 #Mac
 .idea/
+
+.DS_Store
