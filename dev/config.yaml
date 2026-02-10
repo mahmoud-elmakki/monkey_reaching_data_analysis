@@ -6,6 +6,8 @@ rank_local: 15
 rank_backward: 5
 n_hidden_dynamics: 128
 
+use_layer_norm: False
+
 # --- inference network --- #
 n_samples: 25
 n_hidden_local: 256
