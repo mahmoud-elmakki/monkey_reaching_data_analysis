@@ -23,8 +23,8 @@ p_local_dropout: 0.4
 p_backward_dropout: 0.0
 
 # --- training --- #
-device: 'cpu'
-data_device: 'cpu'
+device: 'cuda'
+data_device: 'cuda'
 
 lr: 1e-3
 lr_gamma_decay: 0.997
